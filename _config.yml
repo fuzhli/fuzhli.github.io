@@ -13,7 +13,7 @@ owner:
   bio: "内核业余爱好者"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: https://avatars3.githubusercontent.com/u/294022?v=3&s=96
 favicon: img/favicon.png
 
 douban_username:  fuzhli
@@ -31,7 +31,6 @@ highlighter: pygments
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-relative_permalinks: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
